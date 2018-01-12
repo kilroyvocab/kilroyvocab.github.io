@@ -9,9 +9,9 @@ function draw(){
 
 function drawIntor(){
   // draw the sentence welcome to...
-  var w = 'Welcome to killroy vocab website';
+  var w = 'Welcome To Ms.Kilroy Global History Vocabulary Website';
   fill(0);
-  textSize(50);
-  text(w,600,300);
+  textSize(40);
+  text(w,50,300);
 
 }
